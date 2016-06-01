@@ -42,6 +42,6 @@ Topic include:
 * Ethics, privacy, and access with web data (9-10am)
 * [Introduction to APIs](intro-to-apis/index.ipynb) (10am-12noon)
 * Lunch (12noon-1pm)
-* [Introduction to Web Scraping](web-scraping/index.ipynb) [TODO: make index.ipynb] (1-3pm)
+* [Introduction to Web Scraping](web-scraping/) (1-3pm)
 * Open work and Q&A time (3-4pm)
 
