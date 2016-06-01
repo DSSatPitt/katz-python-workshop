@@ -29,7 +29,7 @@ Day one will focus on an introduction to the Python programming language.
 * [The Jupyter Notebook](jupyter-notebooks/what-is-jupyter.ipynb) (10:30am-12noon)
 * Lunch (12noon-1pm)
 * [Introduction to Python](intro-to-python/index.ipynb) (1-3pm)
-* Open work and Q&A time (3-4pm)
+* Python exercises and Q&A  (3-4pm)
 
 ## Day Two
 
