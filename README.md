@@ -36,9 +36,7 @@ Day one will focus on an introduction to the Python programming language.
 
 9AM-4PM
 
-Day two will involve an introduction to APIs and web scraping.
-
-Topic include:
+Day two will start with a discussion of ethical concerns around data collection, followed by an introduction to APIs and web scraping.
 
 * [Ethical Data Scraping](https://docs.google.com/presentation/d/1aPnLE-7e1fTrXQEZofdmBpzGQee7ZexaoIkaMn4eGzI/edit#slide=id.g134e22f63f_0_45) - guest speaker [Scott Weingart](https://twitter.com/scott_bot), Carnegie Mellon University (9-10am)
 * [Introduction to APIs](intro-to-apis/index.ipynb) (10am-12noon)
