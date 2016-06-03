@@ -40,7 +40,7 @@ Day two will involve an introduction to APIs and web scraping.
 
 Topic include:
 
-* Ethics, privacy, and access with web data (9-10am)
+* [Ethical Data Scraping](https://docs.google.com/presentation/d/1aPnLE-7e1fTrXQEZofdmBpzGQee7ZexaoIkaMn4eGzI/edit#slide=id.g134e22f63f_0_45) - guest speaker [Scott Weingart](https://twitter.com/scott_bot), Carnegie Mellon University (9-10am)
 * [Introduction to APIs](intro-to-apis/index.ipynb) (10am-12noon)
 * Lunch (12noon-1pm)
 * [Introduction to Web Scraping](web-scraping/) (1-3pm)
