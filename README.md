@@ -36,9 +36,9 @@ Day one will focus on an introduction to the Python programming language.
 
 9AM-4PM
 
-Day two will involve an introduction to APIs and web scraping.
+Day two includes an introduction to APIs and web scraping.
 
-Topic include:
+Topics:
 
 * [Quick introduction to Pandas](intro-to-pandas/) (9-10am)
 * [Introduction to APIs](intro-to-apis/) (10am-12noon)
