@@ -1,9 +1,9 @@
 # Introduction to Collecting Web Data with Python
 
 
-This repository contains the materials for a Python workshop held at the [Katz School of Business](http://www.business.pitt.edu/katz/) at the University of Pittsburgh on June 2nd and 3rd.
+This repository contains the materials for a Python workshop held at the University of Pittsburgh on March 31st and April 7th.
 
-This two-day workshop will teach the basics of the Python programming language with a focus on collecting data from web sites and social media platforms. Day one will introduce Python and libraries for data manipulation. Day two will cover Application Programming Interfaces (APIs) and web scraping. Participants will receive hands-on training and leave with introductory knowledge of Python.
+This two-day workshop will teach the basics of the Python programming language with a focus on collecting data from web sites and social media platforms. Day one, March 31st, will introduce Python and libraries for data manipulation. One week later on day two, April 7th, will cover Application Programming Interfaces (APIs) and web scraping. Participants will receive hands-on training and leave with introductory knowledge of Python.
 
 
 Lead Instructors:
@@ -13,9 +13,8 @@ Lead Instructors:
 
 Student Instructors:
 
-- Jerry Xia
+- Shadi Janansefat
 - Qikun Wu
-
 
 
 ## Day One
@@ -25,11 +24,12 @@ Student Instructors:
 Day one will focus on an introduction to the Python programming language.
 
 * Welcome and Introductions (9-9:30am)
-* [The Setup](the-setup/the-setup.ipynb) (9:30-10:30am)
-* [The Jupyter Notebook](jupyter-notebooks/) (10:30am-12noon)
+* [Data Science with Python](data-science-demo) (9:30-10:00am)
+* [Jupyter Notebooks](jupyter-notebooks/) (10-10:30am)
+* [Introduction to Python](intro-to-python/) (10:30am-12noon)
 * Lunch (12noon-1pm)
 * [Introduction to Python](intro-to-python/) (1-3pm)
-* Python exercises and Q&A  (3-4pm)
+* Open Q&A time (3-4pm)
 
 
 ## Day Two
@@ -40,9 +40,8 @@ Day two will involve an introduction to APIs and web scraping.
 
 Topic include:
 
-* Ethics, privacy, and access with web data (9-10am)
-* [Introduction to APIs](intro-to-apis/index.ipynb) (10am-12noon)
+* [Quick introduction to Pandas](intro-to-pandas/) (9-10am)
+* [Introduction to APIs](intro-to-apis/) (10am-12noon)
 * Lunch (12noon-1pm)
 * [Introduction to Web Scraping](web-scraping/) (1-3pm)
 * Open work and Q&A time (3-4pm)
-
