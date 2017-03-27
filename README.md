@@ -11,7 +11,7 @@ Dates:
 
 Location:
 
-[Digital Scholarship Commons](http://www.library.pitt.edu/digital-scholarship-commons) on the ground floor of Hillman Library (to the left of the elevator bank).
+* [Digital Scholarship Commons](http://www.library.pitt.edu/digital-scholarship-commons) on the ground floor of Hillman Library (to the left of the elevator bank).
 
 
 Lead Instructors:
@@ -27,7 +27,7 @@ Student Instructors:
 
 ## Pre-Workshop Software Drop-in
 
-* There will be drop-in hours to help participants configure their laptops with the [Anaconda Python distribution](https://www.continuum.io/downloads?gclid=CP_z-M_39tICFUiHswodEbEMCA) on the morning of **Thursday March 30th** from *9am to 11am* in the Digital Scholarship Commons.
+* There will be drop-in hours to help participants configure their laptops with the [Anaconda Python distribution](https://www.continuum.io/downloads?gclid=CP_z-M_39tICFUiHswodEbEMCA) on the mornings of **Wednesday March 29th** and **Thursday March 30th** from *9am to 11am* in the Digital Scholarship Commons.
 
 ## Day One (March 31st)
 
