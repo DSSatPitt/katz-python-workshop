@@ -13,8 +13,9 @@ Lead Instructors:
 
 Student Instructors:
 
-- Shadi Janansefat
-- Qikun Wu
+- Shadi Janansefat (shadi.j@pitt.edu)
+- Qikun Wu (qiw40@pitt.edu)
+
 
 
 ## Day One
@@ -24,13 +25,17 @@ Student Instructors:
 Day one will focus on an introduction to the Python programming language.
 
 * Welcome and Introductions (9-9:30am)
-* [Data Science with Python](data-science-demo) (9:30-10:00am)
+* [Data Science with Python](data-science-demo/) (9:30-10:00am)
 * [Jupyter Notebooks](jupyter-notebooks/) (10-10:30am)
 * [Introduction to Python](intro-to-python/) (10:30am-12noon)
 * Lunch (12noon-1pm)
 * [Introduction to Python](intro-to-python/) (1-3pm)
 * Open Q&A time (3-4pm)
 
+
+## Homework Assignment
+
+Video: *[Introduction to Python for Data Analysis and Visualization](https://www.youtube.com/watch?v=Ws34Ho-1aDs&index=3&t=235s&list=PLu59K07mpWtXz_Hm5xXyyMovBBdnvtnKC) (3 hours)*
 
 ## Day Two
 
