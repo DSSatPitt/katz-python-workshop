@@ -3,11 +3,11 @@
 
 This repository contains the materials for a Python workshop held at the University of Pittsburgh.
 
-This two-day workshop will teach the basics of the Python programming language with a focus on collecting data from web sites and social media platforms. Day one, March 31st, will introduce Python and libraries for data manipulation. One week later on day two, April 7th, will cover Application Programming Interfaces (APIs) and web scraping. Participants will receive hands-on training and leave with introductory knowledge of Python.
+This two-day workshop will teach the basics of the Python programming language with a focus on collecting data from web sites and social media platforms. Day one will introduce Python and libraries for data manipulation. One week later on day two will cover Application Programming Interfaces (APIs) and web scraping. Participants will receive hands-on training and leave with introductory knowledge of Python.
 
 Dates:
-- March 31st: Introduction to Python, Jupyter, & basic command line
-- April 7th: Introduction to APIs and Web Scraping with a little bit of Pandas
+- **March 31st**: Introduction to Python, Jupyter, & basic command line
+- **April 7th**: Introduction to APIs and Web Scraping with a little bit of Pandas
 
 Location:
 
@@ -27,7 +27,7 @@ Student Instructors:
 
 ## Pre-Workshop Software Drop-in
 
-* We will
+* There will be drop-in hours to help participants configure their laptops with the [Anaconda Python distribution](https://www.continuum.io/downloads?gclid=CP_z-M_39tICFUiHswodEbEMCA) on the morning of **Thursday March 30th** from *9am to 11am* in the Digital Scholarship Commons.
 
 ## Day One (March 31st)
 
