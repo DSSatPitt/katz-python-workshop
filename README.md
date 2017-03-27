@@ -18,7 +18,7 @@ Student Instructors:
 
 
 
-## Day One
+## Day One (March 31st)
 
 9AM-4PM
 
@@ -37,13 +37,11 @@ Day one will focus on an introduction to the Python programming language.
 
 Video: *[Introduction to Python for Data Analysis and Visualization](https://www.youtube.com/watch?v=Ws34Ho-1aDs&index=3&t=235s&list=PLu59K07mpWtXz_Hm5xXyyMovBBdnvtnKC) (3 hours)*
 
-## Day Two
+## Day Two (April 7th)
 
 9AM-4PM
 
 Day two includes an introduction to APIs and web scraping.
-
-Topics:
 
 * [Quick introduction to Pandas](intro-to-pandas/) (9-10am)
 * [Introduction to APIs](intro-to-apis/) (10am-12noon)
