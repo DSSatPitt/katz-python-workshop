@@ -1,9 +1,17 @@
 # Introduction to Collecting Web Data with Python
 
 
-This repository contains the materials for a Python workshop held at the University of Pittsburgh on March 31st and April 7th.
+This repository contains the materials for a Python workshop held at the University of Pittsburgh.
 
 This two-day workshop will teach the basics of the Python programming language with a focus on collecting data from web sites and social media platforms. Day one, March 31st, will introduce Python and libraries for data manipulation. One week later on day two, April 7th, will cover Application Programming Interfaces (APIs) and web scraping. Participants will receive hands-on training and leave with introductory knowledge of Python.
+
+Dates:
+- March 31st: Introduction to Python, Jupyter, & basic command line
+- April 7th: Introduction to APIs and Web Scraping with a little bit of Pandas
+
+Location:
+
+[Digital Scholarship Commons](http://www.library.pitt.edu/digital-scholarship-commons) on the ground floor of Hillman Library (to the left of the elevator bank).
 
 
 Lead Instructors:
@@ -17,6 +25,9 @@ Student Instructors:
 - Qikun Wu (qiw40@pitt.edu)
 
 
+## Pre-Workshop Software Drop-in
+
+* We will
 
 ## Day One (March 31st)
 
