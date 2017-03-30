@@ -47,7 +47,11 @@ Day one will focus on an introduction to the Python programming language.
 
 ## Homework Assignment
 
-Video: *[Introduction to Python for Data Analysis and Visualization](https://www.youtube.com/watch?v=Ws34Ho-1aDs) (3 hours)*
+Please watch these videos to become familiar with the topics we will be covering on Day 2.
+
+* *[Introduction to Pandas](https://www.youtube.com/watch?v=dye7rDktJ2E) (A short tutorial on the Pandas data analysis library, which is super useful!)*
+* *[Introduction to Web scraping](https://www.youtube.com/watch?v=3xQTJi2tqgk) (A short introduction to the Python libraries we will be working with on Day 2)
+
 
 ## Day Two (April 7th)
 
