@@ -38,7 +38,7 @@ Day one will focus on an introduction to the Python programming language.
 * Last minute configuration help (8:30-9am)
 * Welcome and Introductions (9-9:30am)
 * [Data Science with Python](data-science-demo/) (9:30-10:00am)
-* [Jupyter Notebooks](jupyter-notebooks/) (10-10:30am)
+* [The Command Line](the-command-line/) & [Jupyter Notebooks](jupyter-notebooks/) (10-10:30am)
 * [Introduction to Python](intro-to-python/) (10:30am-12noon)
 * Lunch (12noon-1pm)
 * [Introduction to Python](intro-to-python/) (1-3pm)
