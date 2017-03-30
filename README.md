@@ -40,7 +40,7 @@ Day one will focus on an introduction to the Python programming language.
 * [Data Science with Python](data-science-demo/) (9:30-10:00am)
 * [The Command Line](the-command-line/) & [Jupyter Notebooks](jupyter-notebooks/) (10-10:30am)
 * [Introduction to Python](intro-to-python/) (10:30am-12noon)
-* Lunch (12noon-1pm)
+* Lunch - *on your own* (12noon-1pm)
 * [Introduction to Python](intro-to-python/) (1-3pm)
 * Open Q&A time (3-4pm)
 
@@ -49,7 +49,7 @@ Day one will focus on an introduction to the Python programming language.
 
 Please watch these videos to become familiar with the topics we will be covering on Day 2.
 
-* [Introduction to Pandas](https://www.youtube.com/watch?v=dye7rDktJ2E) (A short tutorial on the Pandas data analysis library, which is super useful!)*
+* [Introduction to Pandas](https://www.youtube.com/watch?v=dye7rDktJ2E) (A short tutorial on the Pandas data analysis library, which is super useful!)
 * [Introduction to Web scraping](https://www.youtube.com/watch?v=3xQTJi2tqgk) (A short introduction to the Python libraries we will be working with on Day 2)
 
 
@@ -61,6 +61,6 @@ Day two includes an introduction to APIs and web scraping.
 
 * [Quick introduction to Pandas](intro-to-pandas/) (9-10am)
 * [Introduction to APIs](intro-to-apis/) (10am-12noon)
-* Lunch (12noon-1pm)
+* Lunch - *on your own* (12noon-1pm)
 * [Introduction to Web Scraping](web-scraping/) (1-3pm)
 * Open work and Q&A time (3-4pm)
