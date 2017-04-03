@@ -61,7 +61,7 @@ Day one will focus on an introduction to the Python programming language.
 #### Written Tutorials:
 * [Pandas Tutorial: Data analysis with Python:  Part 1](https://www.dataquest.io/blog/pandas-python-tutorial/)
 * [Pandas Tutorial: Data analysis with Python: Part 2](https://www.dataquest.io/blog/pandas-tutorial-python-2/)
-* [Python Web Scraping Tutorial using BeutifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
+* [Python Web Scraping Tutorial using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
 
 
 
