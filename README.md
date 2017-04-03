@@ -53,16 +53,16 @@ Day one will focus on an introduction to the Python programming language.
 
 * If you would like to review the fundamentals of Python that we introduced on day one, please visit [Python for Everyone: Exploring Data with Python 3](https://books.trinket.io/pfe/index.html). Each chapter includes interactive examples and great explanations of the concepts of Python programming.
 
-Please watch these videos to become familiar with the topics we will be covering on Day 2.
+
 
 #### Videos:
 * [Data Analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) - A playlist of short (around 10 minutes) videos introducing pandas and how to use it for common tasks.
 * [Introduction to Web Scraping](https://www.youtube.com/watch?v=XQgXKtPSzUI) - A 30 minute video that introduces web scraping with the BeautifulSoup library.
 
 #### Written Tutorials:
-* (Blog Post) [Pandas Tutorial: Data analysis with Python:  Part 1](https://www.dataquest.io/blog/pandas-python-tutorial/)
-* (Blog Post)[Pandas Tutorial: Data analysis with Python: Part 2](https://www.dataquest.io/blog/pandas-tutorial-python-2/)
-* (Blog Post) [Python Web Scraping Tutorial using BeutifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
+* [Pandas Tutorial: Data analysis with Python:  Part 1](https://www.dataquest.io/blog/pandas-python-tutorial/)
+* [Pandas Tutorial: Data analysis with Python: Part 2](https://www.dataquest.io/blog/pandas-tutorial-python-2/)
+* [Python Web Scraping Tutorial using BeutifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
 
 
 
