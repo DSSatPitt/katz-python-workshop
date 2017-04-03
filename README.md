@@ -57,7 +57,6 @@ Day one will focus on an introduction to the Python programming language.
 
 #### Videos:
 * [Data Analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) - A playlist of short (around 10 minutes) videos introducing pandas and how to use it for common tasks.
-* [Introduction to Web Scraping](https://www.youtube.com/watch?v=XQgXKtPSzUI) - A 30 minute video that introduces web scraping with the BeautifulSoup library.
 
 #### Written Tutorials:
 * [Pandas Tutorial: Data analysis with Python:  Part 1](https://www.dataquest.io/blog/pandas-python-tutorial/)
