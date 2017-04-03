@@ -47,6 +47,10 @@ Day one will focus on an introduction to the Python programming language.
 
 ## Homework Assignment
 
+Review:
+
+* If you would like to review the fundamentals of Python that we introduced on day one, please visit [Python for Everyone: Exploring Data with Python 3](https://books.trinket.io/pfe/index.html). Each chapter includes interactive examples and great explanations of the concepts of Python programming.
+
 Please watch these videos to become familiar with the topics we will be covering on Day 2.
 
 * [Introduction to Pandas](https://www.youtube.com/watch?v=dye7rDktJ2E) (A short tutorial on the Pandas data analysis library, which is super useful!)
